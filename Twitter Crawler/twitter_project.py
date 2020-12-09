@@ -5,11 +5,11 @@ from datetime import datetime
 
 # cadastrando chaves
 
-consumer_key = 'RG52I3lXP3Sik5rVayqNHJB89'
-consumer_secret = 'd2NEPQuzFFYNCYtxJFdBpgiDB7wB8Tf0ke4MW5jsXjuWf2TQjk'
+consumer_key = 'inserir consumer_key'
+consumer_secret = 'inserir consumer_secret'
 
-access_token = '1332386851274043395-GSz66Y4R1OJTI46dR6d4ySC6xoXgXw'
-access_secret = 'yYuuBT7Viqke6TsZwzDqVHuGWvQZsF1zpulnsClg63Wpu'
+access_token = 'inserir access_token'
+access_secret = 'inserir access_secret'
 
 # definir arquivo de saída para armazenar dados 
 
